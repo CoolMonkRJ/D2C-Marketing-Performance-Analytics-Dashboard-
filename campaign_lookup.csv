@@ -1,0 +1,17 @@
+Campaign_ID,Campaign_Name,Platform,Objective,Target_CAC
+CMP_001,Diwali_Sale_Google_Search,Google Ads,Conversion,800.0
+CMP_002,Retargeting_Cart_Abandoners_Meta,Meta,Conversion,600.0
+CMP_003,New_Launch_Awareness_Meta,Meta,Awareness,400.0
+ CMP_004 ,Flash_Sale_Meta_Feed,META,Conversion,350.0
+CMP_005,Premium_Segment_LinkedIn,LINKEDIN,Lead Gen,1500.0
+CMP_006,Republic_Day_Google_Shopping,Google Ads,,900.0
+CMP_007,Valentine_Special_Meta,Meta,Conversion,500.0
+CMP_008 ,Lead_Gen_B2B_LinkedIn,LinkedIn,Lead Gen,1800.0
+CMP_009,,Meta,Awareness,300.0
+CMP_010,Competitor_Keywords_Google,Google Ads,Conversion,1000.0
+CMP_011,App_Install_Meta,Meta,App Installs,250.0
+CMP_012,Brand_Search_Google,Google Ads,Conversion,
+CMP_013,Lookalike_Audience_Meta,META,Conversion,450.0
+CMP_014,B2B_Decision_Makers_LinkedIn,LinkedIn,Lead Gen,2000.0
+CMP_015,Summer_Sale_Google_Display,Google Ads,Awareness,700.0
+CMP_003,New_Launch_Awareness_Meta,Meta,Awareness,400.0
