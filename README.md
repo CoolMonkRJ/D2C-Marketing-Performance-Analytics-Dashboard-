@@ -73,5 +73,7 @@ That's where the real story is.
 
 Built as part of a self-directed Power BI learning project.
 Actively looking for Data Analyst roles — open to connect!
+
 LinkedIn: [https://www.linkedin.com/in/rohit-joshi-100a97394/]
+
 Email: [workwithrj07@gmail.com]
