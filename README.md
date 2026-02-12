@@ -1,14 +1,18 @@
 📊 Digital Marketing Analytics — Power BI
+
 I built this project to understand why a D2C brand was losing money despite having "cheap" ads.
 Spoiler: The cheapest platform had a 31% return rate. The expensive one was actually more profitable.
 
+
 The Business Problem
+
 A D2C e-commerce brand was running ads on Meta, Google Ads & LinkedIn.
 On paper, Meta looked great — lowest cost per customer (₹355).
 But 1 in 3 Meta orders was being returned (RTO).
 After digging into 28,000+ orders across 90 days, the real picture was very different.
 
 What I Found
+
 Meta — The Trap
 
 CAC looks cheap at ₹355
@@ -29,9 +33,13 @@ Pausing LinkedIn + moving budget to Google = ~₹1.15 Cr saved annually
 
 
 What I Built
+
 Data Model: Star schema with 2 fact tables (FactSales + FactMarketing) and 4 dimensions (Campaign, Date, City)
+
 ETL: Raw data was intentionally messy — 3 different date formats, currency symbols in number columns, 7 variations of "Delivered", duplicate rows. Cleaned everything in Power Query (18 transformation steps).
+
 DAX Measures: CAC, ROAS, RTO%, Net Profit, Effective CAC, Platform Efficiency Score
+
 Dashboards:
 
 Executive Overview
