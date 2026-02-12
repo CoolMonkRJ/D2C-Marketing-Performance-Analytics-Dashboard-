@@ -77,3 +77,8 @@ Actively looking for Data Analyst roles — open to connect!
 LinkedIn: [https://www.linkedin.com/in/rohit-joshi-100a97394/]
 
 Email: [workwithrj07@gmail.com]
+
+
+---
+© 2025 [ROHIT JOSHI] · Licensed under MIT · 
+Built for portfolio purposes
