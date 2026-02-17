@@ -1,4 +1,4 @@
-📊 Digital Marketing Analytics — Power BI
+D2C Marketing Performance Analytics Dashboard 
 
 I built this project to understand why a D2C brand was losing money despite having "cheap" ads.
 Spoiler: The cheapest platform had a 31% return rate. The expensive one was actually more profitable.
